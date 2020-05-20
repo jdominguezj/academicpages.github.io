@@ -13,6 +13,3 @@ Contact me
 ======
 
 Email: juan.antonio.dominguez.jimenez
-Twitter personal: agmarrugo
-Twitter professional: DrMarrugo
-
