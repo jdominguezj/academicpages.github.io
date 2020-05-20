@@ -1,10 +1,10 @@
 ---
 title: "Fundación Universitaria TECNAR"
 collection: teaching
-type: "Minor"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Fundación Universitaria Antonio de Arévalo (UNITECNAR)"
+date: 2020-02-01
 location: "Cartagena, Colombia"
 ---
 
