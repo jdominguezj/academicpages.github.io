@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Domímguez"
+  name             : "Juan Domínguez"
   avatar           : "profile.png"
   bio              : "Juan holds a double bachelor in Electrical/Electronics Engineering (2016) and also a master's degree in Engineering. Passionate about Energy Storage, Modelling, Artificial Intelligence, Smartgrids, Digital Signal Processing, Biomedical signals. His present research activities are in the area of renewable energy, smartgrids, energy storage and distribuited generation."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fwTkU1gAAAAJ&hl=es"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Juan_Antonio_Dominguez"
   uri              :
   bitbucket        :
   codepen          :
