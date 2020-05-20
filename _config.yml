@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Juan Domínguez"
-description              : &description "personal description"
+description              : &description "PhD studend at UQTR"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://jdominguezj.github.io/juandominguez.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Juan Domínguez"
   avatar           : "IMG_0643.jpg"
   #bio              : "Hi, I’m Juan. I’m a professor at the department of Mechanical and Mechatronics Engineering of the Tecnhological University of Bolívar (Colombia)."
-  location         : "Location"
+  location         : "Trois Rivieres, Canadá."
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fwTkU1gAAAAJ&hl=es"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jdominguezj"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+ # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
