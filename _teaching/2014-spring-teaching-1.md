@@ -8,7 +8,11 @@ date: 2014-01-01
 location: "Cartagena, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Architecture and assembly
+- Model based engineering
+- Basic electricity and electronics
+- Introduction to engineering 
+- 
 
 Heading 1
 ======
