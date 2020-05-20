@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "About me"
-permalink: /cv/
+excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+   - /about/
+   - /about.html
 ---
 
 Hi, I'm Juan Domínguez. I'm a PhD student at the Université du Quebec à Trois-Rivières, Canadá.
