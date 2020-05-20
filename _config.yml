@@ -85,9 +85,9 @@ author:
   bio              : "Juan holds a double bachelor in Electrical/Electronics Engineering (2016) and also a master's degree in Engineering. Passionate about Energy Storage, Modelling, Artificial Intelligence, Smartgrids, Digital Signal Processing, Biomedical signals. His present research activities are in the area of renewable energy, smartgrids, energy storage and distribuited generation."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fwTkU1gAAAAJ&hl=es"
-  email            :
+  email            : "juan.antonio.dominguez.jimenez@uqtr.ca"
   researchgate     : "https://www.researchgate.net/profile/Juan_Antonio_Dominguez"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4189-9054"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
