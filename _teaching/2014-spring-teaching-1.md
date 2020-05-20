@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad Tecnológica de Bolivar, Electrical Engineering Department"
-date: 2014-01-01
+date: from 2014 to 2019
 location: "Cartagena, Colombia"
 ---
 
