@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Juan Domímguez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Juan holds a double bachelor in Electrical/Electronics Engineering (2016) and also a master's degree in Engineering. Passionate about Energy Storage, Modelling, Artificial Intelligence, Smartgrids, Digital Signal Processing, Biomedical signals. His present research activities are in the area of renewable energy, smartgrids, energy storage and distribuited generation."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
