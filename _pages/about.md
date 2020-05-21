@@ -20,7 +20,7 @@ I can work with Spanish, English, Portuguese and French speakers. I will help yo
 
 ### My Services
 
-I offer copyediting, proofreading, style corrections, line-by-line editing, comprehensive and developmental editing and writing.
+I offer copyediting, proofreading, style corrections, line-by-line editing, increasing quality of diagrams and images, comprehensive and developmental editing and writing.
 
 Contact me
 ======
