@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+- Domínguez-Jiménez, J. A., Dante A., Agbossou K, Henao H., Cardenas A, Sousso K., Campillo J. (2020). Optimal charging scheduling of electric vehicles using PCA and convex optimization. International symposium of industrial electronics (ISIE), In-press.IEEE.
+
 - Domínguez-Jiménez, J. A., Campo-Landines, K. C., Martínez-Santos, J. C., Delahoz, E. J., & Contreras-Ortiz, S. H. (2020). A machine learning model for emotion recognition from physiological signals. Biomedical Signal Processing and Control, 55, 101646.
 
 - Dominguez-Jimenez, J. A., & Campillo, J. (2020). Increasing driving range for electric vehicles at sub-zero temperatures by optimizing a hybrid storage configuration using supercapacitors. In Journal of Physics: Conference Series (Vol. 1448, p. 012014).
