@@ -13,8 +13,8 @@ If you want to be rather at the bench tahn line-by-line editing, then send your 
 I cam work with Spanish, English, Portuguese and French speakers. I help you to overcome language barriers which can significantly reduce the impact and reach of your report.
 
 
-My Services
-======
+#### My Services
+#===========
 
 I offer you proofreading, style corrections, line-by-line editing, comprehensive and developmental editing and writing.
 
