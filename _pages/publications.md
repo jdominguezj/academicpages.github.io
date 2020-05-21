@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- Domínguez-Jiménez, J. A., Dante A., Agbossou K, Henao H., Cardenas A, Sousso K., Campillo J. (2020). Optimal charging scheduling of electric vehicles using PCA and convex optimization. International symposium of industrial electronics (ISIE), In-press.IEEE.
+- Domínguez-Jiménez, J. A., Dante A., Agbossou K, Henao H., Cardenas A, Sousso K., Campillo J. (2020). Optimal charging scheduling of electric vehicles using PCA and convex optimization. In International symposium of industrial electronics (ISIE), In-press.IEEE.
 
 - Domínguez-Jiménez, J. A., Campo-Landines, K. C., Martínez-Santos, J. C., Delahoz, E. J., & Contreras-Ortiz, S. H. (2020). A machine learning model for emotion recognition from physiological signals. Biomedical Signal Processing and Control, 55, 101646.
 
@@ -15,6 +15,8 @@ author_profile: true
 - Valdes-Burgos, L., Contreras-Ojeda, S. L., Domínguez-Jiménez, J. A., Lopez-Bueno, J., & Contreras-Ortiz, S. H. (2020, January). Analysis and classification of lung tissue in ultrasound images for pneumonia detection. In 15th International Symposium on Medical Information Processing and Analysis (Vol. 11330, p. 1133003). International Society for Optics and Photonics.
 
 - Dominguez-Jimenez, J. A., Campo-Landines, K. C., & Contreras-Ortiz, S. H. (2019, October). A Methodology for Driving Behavior Recognition in Simulated Scenarios Using Biosignals. In Workshop on Engineering Applications (pp. 357-367). Springer, Cham.
+
+- Dominguez-Jimenez, J. A., & Campillo, J. (2019). Impact analysis of enviromental variables in the operational range of electric vehicles. In International Conference on Applied Energy (ICAE), Mälardalens University, Energy-Proceedings.
 
 - Campillo, J., Domínguez-Jimenez, J. A., & Cabrera, J. (2019, March). Sustainable Boat Transportation Throughout Electrification of Propulsion Systems: Challenges and Opportunities. In 2019 2nd Latin American Conference on Intelligent Transportation Systems (ITS LATAM) (pp. 1-6). IEEE.
 
