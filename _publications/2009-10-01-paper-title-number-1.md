@@ -3,14 +3,9 @@ title: "Sustainable Boat Transportation Throughout Electrification of Propulsion
 "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2019-04-14
+venue: 'IEEE Xplore'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8721330/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ' Campillo, J., Domínguez-Jimenez, J. A., & Cabrera, J. (2019, March). Sustainable Boat Transportation Throughout Electrification of Propulsion Systems: Challenges and Opportunities. In 2019 2nd Latin American Conference on Intelligent Transportation Systems (ITS LATAM) (pp. 1-6). IEEE.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
