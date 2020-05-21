@@ -25,5 +25,5 @@ I offer copyediting, proofreading, style corrections, line-by-line editing, comp
 
 Contact me
 ======
-Email: juan.antonio.dominguez.jimenez
+Email: juan.antonio.dominguez.jimenez@uqtr.ca
 
