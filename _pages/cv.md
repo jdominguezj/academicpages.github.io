@@ -11,10 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electronics Engineering, Universidad Tecnológica de Bolívar, 2016
+* B.Eng. in Electronics Engineering, Universidad Tecnológica de Bolívar (UTB), 2016
 * B.Eng. in Electrical Engineering, Universidad Tecnológica de Bolívar, 2016
 * Master in Engineering, Universidad Tecnológica de Bolívar, 2019
 * Ph.D. (c) in Electrical Engineering, Université du Quebe à Trois-Rivières (UQTR), 2023 (expected)
+
+
+Awards
+======
+
+* Emerging leadears in the Americas program (ELAP), Canadian Government, 2019.
+* Young researcher, COLCIENCIAS, 2017-2018.
+* Young researcher, COLCIENCIAS, 2019-2020.
+* Outstanding student, UTB, 2013-2015.
+* Laureate Master Thesis, 2019.
 
 Work experience
 ======
