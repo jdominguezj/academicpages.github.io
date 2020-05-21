@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "J Domínguez, B. Eng, MSc. Ph.D. (C) 1<br/><img src='/images/500x300.png'>"
+title: "J Domínguez, B. Eng, MSc. Ph.D. (C) "
+excerpt: "1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
