@@ -14,6 +14,7 @@ I cam work with Spanish, English, Portuguese and French speakers. I help you to 
 
 
 My Services
+======
 
+I offer you proofreading, style corrections, line-by-line editing, comprehensive and developmental editing and writing.
 
-I offer you proofreading, style corrections, line-by-line editing, comprehensive and developmental editing.
