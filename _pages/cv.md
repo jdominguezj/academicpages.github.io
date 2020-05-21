@@ -24,9 +24,6 @@ Work experience
 * Summer 2016- Fall 2017: Electronics supervisor in TODOMAR
 * 2017-2019: Assistant teacher
 * Fall 2019: Research Assistant
-  * U
-
-* Fall 2019: Research Assistant
   * UQTR
   * Duties included: Optimal power control of plug-in hybrid electric vehicles charging stations
   * Supervisor: Prof, Ph.D. Kodjo Agbossou
