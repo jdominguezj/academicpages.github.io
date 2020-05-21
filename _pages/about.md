@@ -8,9 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Juan Domínguez. I’m a PhD student at the Université du Quebec à Trois-Rivières, Canadá. This is my personal website and blog. There’s a version in English, French and Spanish.
+### J Domínguez, B. Eng, MSc. Ph.D. (C)
 
-Juan holds a double bachelor in Electrical/Electronics Engineering (2016) and also a master’s degree in Engineering. Passionate about Energy Storage, Modelling, Artificial Intelligence, Smartgrids, Digital Signal Processing, Biomedical signals. His present research activities are in the area of renewable energy, smartgrids, energy storage and distribuited generation.”
+As a researcher in development with a Master in Engineering and an on-course Ph.D. in Electrical Engineering and over five years of experience in writing and editing scientific articles, book chapters, grant applications, presentations, posters among others, I am a passionated about high-quality, rapid and accurante writing as well as editing services in a vast variety of domains.
+
+I am also passionate about explaining and telling scientific stories, to help researchers spread significant knowedge. Among the things I have realized within the last years is that students, scientists, and professionals in general are often not provided with sufficient opportunities to exploit the writing skills required to turn important data into interesting stories. 
+
+If you want to be rather at the bench tahn line-by-line editing, then send your manuscript to me!
+
+I cam work with Spanish, English, Portuguese and French speakers. I help you to overcome language barriers which can significantly reduce the impact and reach of your report.
+
+
+### My Services
+
+I offer copyediting, proofreading, style corrections, line-by-line editing, comprehensive and developmental editing and writing.
 
 Contact me
 ======
