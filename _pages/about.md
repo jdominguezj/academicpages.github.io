@@ -16,7 +16,8 @@ I am also passionate about explaining and telling scientific stories, to help re
 
 If you want to be rather at the bench tahn line-by-line editing, then send your manuscript to me!
 
-I cam work with Spanish, English, Portuguese and French speakers. I help you to overcome language barriers which can significantly reduce the impact and reach of your report.
+I can work with Spanish, English, Portuguese and French speakers. I will help you to overcome language barriers which can significantly reduce the impact and reach of your report.
+
 
 
 ### My Services
