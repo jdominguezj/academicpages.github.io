@@ -13,22 +13,30 @@ Education
 ======
 * B.Eng. in Electronics Engineering, Universidad Tecnológica de Bolívar, 2016
 * B.Eng. in Electrical Engineering, Universidad Tecnológica de Bolívar, 2016
-
-* M.Sc. in Engineering, Universidad Tecnológica de Bolívar, 2019
-* Ph.D (c) in Electrical Engineering, Université du Quebe à Trois-Rivières, 2023 (expected)
+* Master in Engineering, Universidad Tecnológica de Bolívar, 2019
+* Ph.D. (c) in Electrical Engineering, Université du Quebe à Trois-Rivières (UQTR), 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014: Assistant teacher 
+* 2015: Intern at Electricaribe
+* 2016: Research Intern in COTECMAR 
+* Summer 2016- Fall 2017: Electronics supervisor in TODOMAR
+* 2017-2019: Assistant teacher
+* Fall 2019: Research Assistant
+  * U
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Research Assistant
+  * UQTR
+  * Duties included: Optimal power control of plug-in hybrid electric vehicles charging stations
+  * Supervisor: Prof, Ph.D. Kodjo Agbossou
+
   
+Volunteering
+======
+
+* Summer 2016: Centro Franciscano De Defesa Dos Direitos, Belo Horizonte. 
+
 Skills
 ======
 * Python
@@ -37,7 +45,7 @@ Skills
 * Microsoft office package
 * LaTEX 
 * Modelica
-* 
+
 
 
 Publications
