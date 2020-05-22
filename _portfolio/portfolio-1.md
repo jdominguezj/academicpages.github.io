@@ -10,16 +10,16 @@ collection: portfolio
   
 Gustavo Sosa<br>
 Director of Clinic Simulation Projects<br>
-Educational robotics Laboratory, Universidad Tecnológica Nacional, Sede Tucumán, Argentina.<br><br>
+Educational robotics Laboratory, Universidad Tecnológica Nacional, Sede Tucumán, Argentina.<br>
 
 
 <b>"I have been working with Juan during my undergraduate thesis. I had the opportunity to work with him writing conference papers and he always improved the quality of our articles, he knows and uses properly the technical language of each topic, his adjustments are accurate and he completes the work very quickly. Is always a placer to work with him, because he does his best every time. "</b><br><br>
   
 Sara Contreras<br>
 Mechatronics Student<br>
-Universidad Tecnológica de Bolívar, Cartagena, Colombia.<br><br>
+Universidad Tecnológica de Bolívar, Cartagena, Colombia.<br>
 
-<b> Juan was a great support in the development of my undergraduate thesis, he helped me to improve the presentation of my findings through the use of SWOT and CPM matrices as tools that facilitated the presentation of qualitative strategies that needed a quantitative representation to get a better understanding. </b><br><br>
+<b> Juan was a great support in the development of my undergraduate thesis, he helped me to improve the presentation of my findings through the use of SWOT and CPM matrices as tools that facilitated the presentation of qualitative strategies that needed a quantitative representation to get a better understanding. </b><br>
  
 Danna Arrieta<br>
 Geologist<br>
