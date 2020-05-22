@@ -6,7 +6,7 @@ collection: portfolio
 
 
 <p align="center">
-<b>"Juan helped us to rewrite the results of a dense investigation with clear and elegant words. He help us to turn our initial work into a detailed, organized and correctly exposed paper. Juan contributed with precision and solidity in writing. The team learned a lot from their contributions, and we got a better grasp about writing skills thanks to their interventions."</b><br><br>
+<b>"Juan helped us to rewrite the results of a dense investigation with clear and elegant words. He help us to turn our initial work into a detailed, organized and correctly exposed paper. Juan contributed with precision and solidity in writing. The team learned a lot from their contributions, and we got a better grasp about writing skills thanks to their interventions."</b><br>
   
 Gustavo Sosa<br>
 Director of Clinic Simulation Projects<br>
@@ -14,7 +14,7 @@ Educational robotics Laboratory, Universidad Tecnológica Nacional, Sede Tucumá
 </p>
 
 <p align="center">
-<b>"I have been working with Juan during my undergraduate thesis. I had the opportunity to work with him writing conference papers and he always improved the quality of our articles, he knows and uses properly the technical language of each topic, his adjustments are accurate and he completes the work very quickly. Is always a placer to work with him, because he does his best every time. "</b><br><br>
+<b>"I have been working with Juan during my undergraduate thesis. I had the opportunity to work with him writing conference papers and he always improved the quality of our articles, he knows and uses properly the technical language of each topic, his adjustments are accurate and he completes the work very quickly. Is always a placer to work with him, because he does his best every time. "</b><br>
   
 Sara Contreras<br>
 Mechatronics Student<br>
