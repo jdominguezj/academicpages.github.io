@@ -34,7 +34,7 @@ Languages
 * English (Fluent, B2)
 * French (Fluent, B2)
 * Portuguese (Intermedium, B1)
-* Russian (Beginner, A2)
+* Russian (Beginner, A1)
 
 Work experience
 ======
