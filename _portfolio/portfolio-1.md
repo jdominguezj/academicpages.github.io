@@ -13,7 +13,7 @@ Director of Clinic Simulation Projects<br>
 Educational robotics Laboratory, Universidad Tecnológica Nacional, Sede Tucumán, Argentina.<br><br>
 
 
-<b>"I have been working with Juan during my degree project, for that reason, I had the opportunity to work with him writing conference papers and he always improved the quality of our articles, he knows and uses properly the technical language of each topic, his adjustments are accurate and he completes the work very quickly. Is always a placer to work with him, because he does his best every time. "</b><br><br>
+<b>"I have been working with Juan during my undergraduate thesis. I had the opportunity to work with him writing conference papers and he always improved the quality of our articles, he knows and uses properly the technical language of each topic, his adjustments are accurate and he completes the work very quickly. Is always a placer to work with him, because he does his best every time. "</b><br><br>
   
 Sara Contreras<br>
 Mechatronics Student<br>
