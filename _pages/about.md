@@ -20,9 +20,18 @@ I can work with Spanish, English, Portuguese and French speakers. I will help yo
 
 ### My Services
 
-I offer copyediting, proofreading, style corrections, line-by-line editing, increasing quality of diagrams and images, comprehensive and developmental editing and writing.
+I offer the below services for all sort of academic documents, grant applications.
+
+-Copyediting
+-Proofreading
+-Style corrections
+-Line-by-line editing
+-Increasing quality of diagrams and images
+-Comprehensive and developmental editing and writing.
+
 
 Contact me
 ======
 Email: juan.antonio.dominguez.jimenez@uqtr.ca
-
+Twitter: @dominguezjuan94
+Instagram:@juanchodj4
