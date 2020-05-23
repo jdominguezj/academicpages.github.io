@@ -21,7 +21,7 @@ I offer the below services for all sort of academic documents and grant applicat
 -Comprehensive and developmental editing and writing.<br>
 
 
-### B. Eng, MSc. Ph.D. (C)
+### B. Eng, MSc., Ph.D. student
 
 As a researcher in development with a Master in Engineering and an on-course PhD in Electrical Engineering, over four years of experience in writing and editing scientific articles, book chapters, grant applications, high-resolution presentations and posters among others, I am a passionate about high-quality, rapid and accurate writing as well as editing services in a wide variety of domains.
 
