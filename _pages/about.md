@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+
+### My Services
+
+I offer the below services for all sort of academic documents and grant applications.
+
+-Copyediting
+-Proofreading
+-Style corrections
+-Line-by-line editing
+-Increasing quality of diagrams and images
+-Comprehensive and developmental editing and writing.
+
+
 ### B. Eng, MSc. Ph.D. (C)
 
 As a researcher in development with a Master in Engineering and an on-course PhD in Electrical Engineering, over four years of experience in writing and editing scientific articles, book chapters, grant applications, high-resolution presentations and posters among others, I am a passionate about high-quality, rapid and accurate writing as well as editing services in a wide variety of domains.
@@ -17,17 +30,6 @@ I am also passionate about explaining and telling scientific stories to help res
 If you want to be rather at the bench than line-by-line editing, then send your manuscript to me!
 
 I can work with Spanish, English, Portuguese and French speakers. I will help you to overcome language barriers which can significantly reduce the impact and reach of your report.
-
-### My Services
-
-I offer the below services for all sort of academic documents, grant applications.
-
--Copyediting
--Proofreading
--Style corrections
--Line-by-line editing
--Increasing quality of diagrams and images
--Comprehensive and developmental editing and writing.
 
 
 Contact me
