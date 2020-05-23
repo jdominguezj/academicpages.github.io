@@ -13,12 +13,12 @@ redirect_from:
 
 I offer the below services for all sort of academic documents and grant applications.
 
--Copyediting
--Proofreading
--Style corrections
--Line-by-line editing
--Increasing quality of diagrams and images
--Comprehensive and developmental editing and writing.
+-Copyediting<br>
+-Proofreading<br>
+-Style corrections<br>
+-Line-by-line editing<br>
+-Increasing quality of diagrams and images<br>
+-Comprehensive and developmental editing and writing.<br>
 
 
 ### B. Eng, MSc. Ph.D. (C)
